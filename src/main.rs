@@ -1,4 +1,5 @@
+// write main function
 fn main() {
-    //print "Hello, world!"
+    // print hello world
     println!("Hello, world!");
 }
